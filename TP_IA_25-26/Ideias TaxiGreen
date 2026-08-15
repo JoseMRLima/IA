@@ -1,0 +1,30 @@
+Ideias TaxiGreen
+
+1-----
+
+Pedido Atual
+
+Existe um pedido na lista, que é o primeiro.
+Ficou definido que um veículo específico será utilizado para fazer o transporte.
+
+Observação sobre o trajeto
+
+Durante a viagem até a origem desse primeiro pedido, o veículo passa por um ponto onde existe outro pedido cuja origem e destino coincidem com o trajeto.
+
+Ideia
+
+Considerar que o veículo deve aproveitar o trajeto e realizar também esse pedido adicional, já que é compatível com o percurso.
+
+2-------
+
+Pedido Atual
+
+Existem vários pedidos na lista, que passam na mesma rota.
+
+Observação sobre o trajeto
+
+Durante a viagem vários pedidos passam na mesma rota, com origens e destinos, iguais ou não
+
+Ideia
+
+Caso os utilizadores nao se importem, varios clientes usam o mesmo veiculo, ao mesmo tempo

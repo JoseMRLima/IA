@@ -1,0 +1,386 @@
+[
+  {
+    "from": "Central de Táxis",
+    "to": "Castelo de Guimarães",
+    "distance": 250,
+    "time": 0.3
+  },
+  {
+    "from": "Castelo de Guimarães",
+    "to": "Teleférico de Guimarães",
+    "distance": 350,
+    "time": 0.2
+  },
+  {
+    "from": "Teleférico de Guimarães",
+    "to": "Estádio do Vitória Sport Club",
+    "distance": 150,
+    "time": 0.5
+  },
+  {
+    "from": "Teleférico de Guimarães",
+    "to": "Prio",
+    "distance": 500,
+    "time": 0.3
+  },
+  {
+    "from": "Prio",
+    "to": "Estação de Comboios",
+    "distance": 150,
+    "time": 0.1
+  },
+  {
+    "from": "Estádio do Vitória Sport Club",
+    "to": "Câmara Municipal",
+    "distance": 300,
+    "time": 0.7
+  },
+  {
+    "from": "Câmara Municipal",
+    "to": "Galp",
+    "distance": 420,
+    "time": 0.8
+  },
+  {
+    "from": "Câmara Municipal",
+    "to": "Estacionamento Camões",
+    "distance": 170,
+    "time": 0.3
+  },
+  {
+    "from": "Galp",
+    "to": "Paço dos Duques",
+    "distance": 270,
+    "time": 0.9
+  },
+  {
+    "from": "Estacionamento Camões",
+    "to": "Paço dos Duques",
+    "distance": 130,
+    "time": 1.2
+  },
+  {
+    "from": "Galp",
+    "to": "Século XIX",
+    "distance": 440,
+    "time": 1.5
+  },
+  {
+    "from": "Século XIX",
+    "to": "Praça",
+    "distance": 320,
+    "time": 2
+  },
+  {
+    "from": "Século XIX",
+    "to": "Colégio do Ave",
+    "distance": 640,
+    "time": 2.3
+  },
+  {
+    "from": "Colégio do Ave",
+    "to": "Vime",
+    "distance": 710,
+    "time": 3
+  },
+  {
+    "from": "Colégio do Ave",
+    "to": "Igreja de Creixomil",
+    "distance": 390,
+    "time": 1.2
+  },
+  {
+    "from": "Igreja de Creixomil",
+    "to": "Shopping de Guimarães",
+    "distance": 180,
+    "time": 0.4
+  },
+  {
+    "from": "Igreja de Creixomil",
+    "to": "Triângulo",
+    "distance": 530,
+    "time": 0.6
+  },
+  {
+    "from": "Igreja de Creixomil",
+    "to": "Universidade do Minho",
+    "distance": 200,
+    "time": 0.2
+  },
+  {
+    "from": "Paço dos Duques",
+    "to": "Triângulo",
+    "distance": 610,
+    "time": 0.4
+  },
+  {
+    "from": "Triângulo",
+    "to": "Tribunal",
+    "distance": 260,
+    "time": 0.5
+  },
+  {
+    "from": "Estação de Comboios",
+    "to": "Tribunal",
+    "distance": 140,
+    "time": 0.6
+  },
+  {
+    "from": "Tribunal",
+    "to": "Parque da Cidade",
+    "distance": 370,
+    "time": 0.9
+  },
+  {
+    "from": "Parque da Cidade",
+    "to": "Repsol",
+    "distance": 450,
+    "time": 1.1
+  },
+  {
+    "from": "Repsol",
+    "to": "Universidade do Minho",
+    "distance": 180,
+    "time": 1.3
+  },
+  {
+    "from": "Repsol",
+    "to": "Penha",
+    "distance": 80,
+    "time": 0.2
+  },
+  {
+    "from": "Penha",
+    "to": "Pedral",
+    "distance": 130,
+    "time": 0.4
+  },
+  {
+    "from": "Pedral",
+    "to": "Universidade do Minho",
+    "distance": 230,
+    "time": 1
+  },
+  {
+    "from": "Repsol",
+    "to": "Espaço Guimarães",
+    "distance": 320,
+    "time": 1.3
+  },
+  {
+    "from": "Espaço Guimarães",
+    "to": "Brito",
+    "distance": 850,
+    "time": 2
+  },
+  {
+    "from": "Espaço Guimarães",
+    "to": "Vime",
+    "distance": 470,
+    "time": 2.3
+  },
+  {
+    "from": "Espaço Guimarães",
+    "to": "Triângulo",
+    "distance": 350,
+    "time": 1.8
+  },
+  {
+    "from": "Café Meia Noite",
+    "to": "Estádio do Vitória Sport Club",
+    "distance": 120,
+    "time": 1.2
+  },
+  {
+    "from": "Café Meia Noite",
+    "to": "Vizela",
+    "distance": 560,
+    "time": 2
+  },
+  {
+    "from": "Café Meia Noite",
+    "to": "Castelo de Guimarães",
+    "distance": 70,
+    "time": 0.3
+  },
+  {
+    "from": "Loureiro Velho",
+    "to": "Espaço Guimarães",
+    "distance": 300,
+    "time": 0.9
+  },
+  {
+    "from": "Pontilhões",
+    "to": "Brito",
+    "distance": 20,
+    "time": 0.2
+  },
+  {
+    "from": "São Bento das Peras",
+    "to": "Parque das Termas",
+    "distance": 230,
+    "time": 1.4
+  },
+  {
+    "from": "Vizela",
+    "to": "Parque das Termas",
+    "distance": 310,
+    "time": 0.8
+  },
+  {
+    "from": "Vizela",
+    "to": "Passadiços de Vizela",
+    "distance": 100,
+    "time": 0.7
+  },
+  {
+    "from": "Passadiços de Vizela",
+    "to": "Brito",
+    "distance": 70,
+    "time": 0.4
+  },
+  {
+    "from": "Café Espaço",
+    "to": "Praça",
+    "distance": 60,
+    "time": 0.2
+  },
+  {
+    "from": "Café Espaço",
+    "to": "Parque da Oliveira",
+    "distance": 80,
+    "time": 0.3
+  },
+  {
+    "from": "Bares Académicos",
+    "to": "Universidade do Minho",
+    "distance": 90,
+    "time": 0.5
+  },
+  {
+    "from": "Bares Académicos",
+    "to": "Shopping de Guimarães",
+    "distance": 160,
+    "time": 1.2
+  },
+  {
+    "from": "Decatlhon",
+    "to": "Espaço Guimarães",
+    "distance": 220,
+    "time": 1.8
+  },
+  {
+    "from": "Multiusos",
+    "to": "Espaço Guimarães",
+    "distance": 180,
+    "time": 1.4
+  },
+  {
+    "from": "Piscinas Paraiso",
+    "to": "Parque da Cidade",
+    "distance": 140,
+    "time": 1
+  },
+  {
+    "from": "Casa de Sendelo",
+    "to": "Brito",
+    "distance": 320,
+    "time": 1.2
+  },
+  {
+    "from": "Restaurante Novais",
+    "to": "Praça",
+    "distance": 70,
+    "time": 0.9
+  },
+  {
+    "from": "Citânia Briteiros",
+    "to": "Brito",
+    "distance": 450,
+    "time": 1.3
+  },
+  {
+    "from": "Citânia Briteiros",
+    "to": "São Bento das Peras",
+    "distance": 280,
+    "time": 0.9
+  },
+  {
+    "from": "Museu de Alberto Sampaio",
+    "to": "Paço dos Duques",
+    "distance": 60,
+    "time": 0.5
+  },
+  {
+    "from": "Tasquinha do Tio Julio",
+    "to": "Praça",
+    "distance": 50,
+    "time": 0.2
+  },
+  {
+    "from": "Vila Flor",
+    "to": "Parque da Oliveira",
+    "distance": 90,
+    "time": 0.4
+  },
+  {
+    "from": "Feira",
+    "to": "Mercado Municipal",
+    "distance": 70,
+    "time": 0.3
+  },
+  {
+    "from": "Jardim do Largo",
+    "to": "Parque da Oliveira",
+    "distance": 50,
+    "time": 0.1
+  },
+  {
+    "from": "Mercado Municipal",
+    "to": "Praça",
+    "distance": 60,
+    "time": 0.5
+  },
+  {
+    "from": "Parque da Oliveira",
+    "to": "Igreja de Nossa Senhora da Oliveira",
+    "distance": 30,
+    "time": 0.3
+  },
+  {
+    "from": "Igreja de São Miguel do Castelo",
+    "to": "Castelo de Guimarães",
+    "distance": 40,
+    "time": 0.3
+  },
+  {
+    "from": "Fonte do Ídolo",
+    "to": "Praça",
+    "distance": 70,
+    "time": 0.2
+  },
+  {
+    "from": "Museu de Guimarães",
+    "to": "Paço dos Duques",
+    "distance": 90,
+    "time": 0.2
+  },
+  {
+    "from": "Igreja de São Domingos",
+    "to": "Praça",
+    "distance": 60,
+    "time": 0.1
+  },
+  {
+    "from": "Igreja de São Francisco",
+    "to": "Praça",
+    "distance": 80,
+    "time": 0.1
+  },
+  {
+    "from": "Shell",
+    "to": "Espaço Guimarães",
+    "distance": 250,
+    "time": 0.3
+  }
+]

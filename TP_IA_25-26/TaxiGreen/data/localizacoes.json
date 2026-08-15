@@ -1,0 +1,434 @@
+[
+  {
+    "nome": "Central de Táxis",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 283,
+    "y": 193
+  },
+  {
+    "nome": "Castelo de Guimarães",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 268,
+    "y": 185
+  },
+  {
+    "nome": "Teleférico de Guimarães",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 255,
+    "y": 196
+  },
+  {
+    "nome": "Estádio do Vitória Sport Club",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 245,
+    "y": 205
+  },
+  {
+    "nome": "Câmara Municipal",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 230,
+    "y": 216
+  },
+  {
+    "nome": "Estacionamento Camões",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 221,
+    "y": 204
+  },
+  {
+    "nome": "Prio",
+    "bomba_combustivel": true,
+    "posto_recarga": true,
+    "nr_lugares": 5,
+    "x": 236,
+    "y": 185
+  },
+  {
+    "nome": "Estação de Comboios",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 222,
+    "y": 176
+  },
+  {
+    "nome": "Galp",
+    "bomba_combustivel": true,
+    "posto_recarga": false,
+    "nr_lugares": 6,
+    "x": 209,
+    "y": 221
+  },
+  {
+    "nome": "Século XIX",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 190,
+    "y": 228
+  },
+  {
+    "nome": "Praça",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 185,
+    "y": 246
+  },
+  {
+    "nome": "Colégio do Ave",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 179,
+    "y": 209
+  },
+  {
+    "nome": "Igreja de Creixomil",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 171,
+    "y": 196
+  },
+  {
+    "nome": "Shopping de Guimarães",
+    "bomba_combustivel": false,
+    "posto_recarga": true,
+    "nr_lugares": 2,
+    "x": 153,
+    "y": 202
+  },
+  {
+    "nome": "Paço dos Duques",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 202,
+    "y": 202
+  },
+  {
+    "nome": "Triângulo",
+    "bomba_combustivel": false,
+    "posto_recarga": true,
+    "nr_lugares": 2,
+    "x": 192,
+    "y": 186
+  },
+  {
+    "nome": "Tribunal",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 201,
+    "y": 174
+  },
+  {
+    "nome": "Parque da Cidade",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 181,
+    "y": 137
+  },
+  {
+    "nome": "Universidade do Minho",
+    "bomba_combustivel": false,
+    "posto_recarga": true,
+    "nr_lugares": 2,
+    "x": 158,
+    "y": 182
+  },
+  {
+    "nome": "Pedral",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 142,
+    "y": 172
+  },
+  {
+    "nome": "Penha",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 152,
+    "y": 158
+  },
+  {
+    "nome": "Repsol",
+    "bomba_combustivel": true,
+    "posto_recarga": false,
+    "nr_lugares": 6,
+    "x": 168,
+    "y": 168
+  },
+  {
+    "nome": "Espaço Guimarães",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 188,
+    "y": 171
+  },
+  {
+    "nome": "Vime",
+    "bomba_combustivel": true,
+    "posto_recarga": false,
+    "nr_lugares": 4,
+    "x": 183,
+    "y": 190
+  },
+  {
+    "nome": "Brito",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 206,
+    "y": 155
+  },
+  {
+    "nome": "Pontilhões",
+    "bomba_combustivel": true,
+    "posto_recarga": false,
+    "nr_lugares": 1,
+    "x": 206,
+    "y": 138
+  },
+  {
+    "nome": "Loureiro Velho",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 172,
+    "y": 183
+  },
+  {
+    "nome": "Vizela",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 244,
+    "y": 163
+  },
+  {
+    "nome": "Parque das Termas",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 251,
+    "y": 146
+  },
+  {
+    "nome": "Passadiços de Vizela",
+    "bomba_combustivel": false,
+    "posto_recarga": true,
+    "nr_lugares": 2,
+    "x": 225,
+    "y": 159
+  },
+  {
+    "nome": "São Bento das Peras",
+    "bomba_combustivel": true,
+    "posto_recarga": false,
+    "nr_lugares": 3,
+    "x": 235,
+    "y": 136
+  },
+  {
+    "nome": "Café Meia Noite",
+    "bomba_combustivel": true,
+    "posto_recarga": false,
+    "nr_lugares": 4,
+    "x": 252,
+    "y": 182
+  },
+  {
+    "nome": "Café Espaço",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 192,
+    "y": 267
+  },
+  {
+    "nome": "Bares Académicos",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 142,
+    "y": 189
+  },
+  {
+    "nome": "Decatlhon",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 174,
+    "y": 158
+  },
+  {
+    "nome": "Multiusos",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 186,
+    "y": 154
+  },
+  {
+    "nome": "Piscinas Paraiso",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 155,
+    "y": 138
+  },
+  {
+    "nome": "Casa de Sendelo",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 198,
+    "y": 138
+  },
+  {
+    "nome": "Restaurante Novais",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 215,
+    "y": 242
+  },
+  {
+    "nome": "Citânia Briteiros",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 218,
+    "y": 142
+  },
+  {
+    "nome": "Museu de Alberto Sampaio",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 209,
+    "y": 187
+  },
+  {
+    "nome": "Tasquinha do Tio Julio",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 205,
+    "y": 260
+  },
+  {
+    "nome": "Vila Flor",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 213,
+    "y": 291
+  },
+  {
+    "nome": "Feira",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 148,
+    "y": 261
+  },
+  {
+    "nome": "Jardim do Largo",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 199,
+    "y": 305
+  },
+  {
+    "nome": "Mercado Municipal",
+    "bomba_combustivel": false,
+    "posto_recarga": true,
+    "nr_lugares": 3,
+    "x": 163,
+    "y": 252
+  },
+  {
+    "nome": "Parque da Oliveira",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 196,
+    "y": 284
+  },
+  {
+    "nome": "Igreja de São Miguel do Castelo",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 283,
+    "y": 175
+  },
+  {
+    "nome": "Fonte do Ídolo",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 160,
+    "y": 285
+  },
+  {
+    "nome": "Museu de Guimarães",
+    "bomba_combustivel": false,
+    "posto_recarga": true,
+    "nr_lugares": 5,
+    "x": 193,
+    "y": 212
+  },
+  {
+    "nome": "Igreja de São Domingos",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 163,
+    "y": 222
+  },
+  {
+    "nome": "Igreja de Nossa Senhora da Oliveira",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 174,
+    "y": 297
+  },
+  {
+    "nome": "Igreja de São Francisco",
+    "bomba_combustivel": false,
+    "posto_recarga": false,
+    "nr_lugares": 0,
+    "x": 155,
+    "y": 270
+  },
+  {
+    "nome": "Shell",
+    "bomba_combustivel": true,
+    "posto_recarga": false,
+    "nr_lugares": 4,
+    "x": 194,
+    "y": 163
+  }
+]

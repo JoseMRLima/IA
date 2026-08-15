@@ -1,0 +1,222 @@
+[
+  {
+    "matricula": "JK-34-SW",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "tipo": false,
+    "autonomia_maxima": 750000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.18,
+    "tempo_abastecer": 2,
+    "emissao_CO2": 0.1
+  },
+  {
+    "matricula": "LM-82-QA",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "tipo": false,
+    "autonomia_maxima": 700000,
+    "nr_passageiros": 4,
+    "custo_operacional_km": 0.19,
+    "tempo_abastecer": 3,
+    "emissao_CO2": 0.2
+  },
+  {
+    "matricula": "RT-11-ZX",
+    "marca": "Ford",
+    "modelo": "Focus",
+    "tipo": false,
+    "autonomia_maxima": 680000,
+    "nr_passageiros": 9,
+    "custo_operacional_km": 0.17,
+    "tempo_abastecer": 5,
+    "emissao_CO2": 0.25
+  },
+  {
+    "matricula": "AB-56-KL",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "tipo": false,
+    "autonomia_maxima": 800000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.15,
+    "tempo_abastecer": 9,
+    "emissao_CO2": 0.09
+  },
+  {
+    "matricula": "CV-93-MN",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "tipo": false,
+    "autonomia_maxima": 620000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.16,
+    "tempo_abastecer": 5,
+    "emissao_CO2": 0.3
+  },
+  {
+    "matricula": "XE-77-PQ",
+    "marca": "Hyundai",
+    "modelo": "i30",
+    "tipo": false,
+    "autonomia_maxima": 690000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.17,
+    "tempo_abastecer": 7,
+    "emissao_CO2": 0.23
+  },
+  {
+    "matricula": "OP-45-VB",
+    "marca": "Kia",
+    "modelo": "Ceed",
+    "tipo": false,
+    "autonomia_maxima": 710000,
+    "nr_passageiros": 7,
+    "custo_operacional_km": 0.16,
+    "tempo_abastecer": 3,
+    "emissao_CO2": 0.15
+  },
+  {
+    "matricula": "YU-29-HG",
+    "marca": "Skoda",
+    "modelo": "Octavia",
+    "tipo": false,
+    "autonomia_maxima": 800000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.18,
+    "tempo_abastecer": 1,
+    "emissao_CO2": 0.18
+  },
+  {
+    "matricula": "PL-61-TR",
+    "marca": "Seat",
+    "modelo": "Leon",
+    "tipo": false,
+    "autonomia_maxima": 720000,
+    "nr_passageiros": 3,
+    "custo_operacional_km": 0.17,
+    "tempo_abastecer": 4,
+    "emissao_CO2": 0.22
+  },
+  {
+    "matricula": "NS-88-WE",
+    "marca": "Dacia",
+    "modelo": "Sandero",
+    "tipo": false,
+    "autonomia_maxima": 780000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.14,
+    "tempo_abastecer": 2,
+    "emissao_CO2": 0.09
+  },
+  {
+    "matricula": "AA-10-BB",
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "tipo": true,
+    "autonomia_maxima": 400000,
+    "nr_passageiros": 6,
+    "custo_operacional_km": 0.28,
+    "tempo_abastecer": 16,
+    "emissao_CO2": 0
+  },
+  {
+    "matricula": "CC-22-DD",
+    "marca": "Mercedes-Benz",
+    "modelo": "Classe C",
+    "tipo": true,
+    "autonomia_maxima": 350000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.3,
+    "tempo_abastecer": 15,
+    "emissao_CO2": 0
+  },
+  {
+    "matricula": "EE-33-FF",
+    "marca": "Audi",
+    "modelo": "A4",
+    "tipo": true,
+    "autonomia_maxima": 450000,
+    "nr_passageiros": 9,
+    "custo_operacional_km": 0.29,
+    "tempo_abastecer": 20,
+    "emissao_CO2": 0  
+  },
+  {
+    "matricula": "GG-44-HH",
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "tipo": true,
+    "autonomia_maxima": 420000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.16,
+    "tempo_abastecer": 25,
+    "emissao_CO2": 0  
+  },
+  {
+    "matricula": "II-55-JJ",
+    "marca": "Volvo",
+    "modelo": "S60",
+    "tipo": true,
+    "autonomia_maxima": 500000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.27,
+    "tempo_abastecer": 17,
+    "emissao_CO2": 0  
+  },
+  {
+    "matricula": "KK-66-LL",
+    "marca": "Lexus",
+    "modelo": "IS",
+    "tipo": true,
+    "autonomia_maxima": 300000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.26,
+    "tempo_abastecer": 18,
+    "emissao_CO2": 0  
+  },
+  {
+    "matricula": "MM-77-NN",
+    "marca": "Jaguar",
+    "modelo": "XE",
+    "tipo": true,
+    "autonomia_maxima": 470000,
+    "nr_passageiros": 8,
+    "custo_operacional_km": 0.31,
+    "tempo_abastecer": 20,
+    "emissao_CO2": 0  
+  },
+  {
+    "matricula": "OO-88-PP",
+    "marca": "Mazda",
+    "modelo": "6",
+    "tipo": false,
+    "autonomia_maxima": 740000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.18,
+    "tempo_abastecer": 10,
+    "emissao_CO2": 0.4
+  },
+  {
+    "matricula": "QQ-99-RR",
+    "marca": "Honda",
+    "modelo": "Civic",
+    "tipo": false,
+    "autonomia_maxima": 710000,
+    "nr_passageiros": 5,
+    "custo_operacional_km": 0.17,
+    "tempo_abastecer": 7,
+    "emissao_CO2": 0.08
+  },
+  {
+    "matricula": "SS-12-TT",
+    "marca": "Opel",
+    "modelo": "Astra",
+    "tipo": false,
+    "autonomia_maxima": 690000,
+    "nr_passageiros": 3,
+    "custo_operacional_km": 0.16,
+    "tempo_abastecer": 9,
+    "emissao_CO2": 0.13
+  }
+]
