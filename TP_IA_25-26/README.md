@@ -1,5 +1,7 @@
 # TP IA 2025/2026
 
+**Nota:** 15
+
 Trabalho Prático de **Inteligência Artificial** 2025/2026
 
 ## Descrição
